@@ -65,7 +65,7 @@ Follow the below steps to run the code
    ```
 2. Input data file is fetched from http://elib.zib.de/pub/mp-testdata/tsp/tsplib/tsp/index.html and stored under data/a280.tsp
 
-3. Run the the jar file
+3. Run the the jar file from the root of the directory
 
    ```sh
    java -jar TSP.jar <algo_type> <input_tsp_file_name>
