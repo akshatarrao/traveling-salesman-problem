@@ -61,7 +61,7 @@ Follow the below steps to run the code
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/akshatarrao/tsp-solver.git
+   git clone https://github.com/akshatarrao/traveling-salesman-problem.git
    ```
 2. Input data file is fetched from http://elib.zib.de/pub/mp-testdata/tsp/tsplib/tsp/index.html and stored under data/a280.tsp
 
@@ -84,4 +84,4 @@ Follow the below steps to run the code
 
 Akshata Ramesh Rao - arao082@uottawa.ca
 
-Project Link: [github.com/akshatarrao/tsp](https://github.com/akshatarrao/tsp)
+Project Link: [github.com/akshatarrao/tsp](https://github.com/akshatarrao/traveling-salesman-problem)
